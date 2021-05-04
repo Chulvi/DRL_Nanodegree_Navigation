@@ -53,6 +53,8 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 5. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 
+For more detailed instructions, feel free to check [this repository](https://github.com/udacity/deep-reinforcement-learning)
+
 ### Getting Started
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
